@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.flywaydb:flyway-core">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/flywaydb/flyway-core/flyway-core-.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/flywaydb/flyway-core/flyway-core--javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/flywaydb/flyway-core/flyway-core--sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
